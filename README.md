@@ -45,3 +45,4 @@ https://github.com/alen-smajic/Real-time-Object-Detection-for-Autonomous-Driving
 In this project, we’ve built an advanced road object detection and classification system using OpenCV. We’ve used the YOLOv3 algorithm along with OpenCV to detect and classify objects. And we learned about deep neural networks, file handling systems, and some advanced computer vision techniques. The accurate detection ,classification and counting of vehicles ,people ,birds would give useful insights like where the traffic is heavy, which kind of vehicles travel more in a particular route ,etc. The system works as an automated video analytical tool for real time vehicle detection.  Since this task is very difficult manually, the automation would save a lot of time and effort. It will be helpful in various applications such as Traffic management, Safety , Environmental monitoring.
 
 
+
