@@ -41,7 +41,7 @@ The trained deep learning models demonstrate excellent performance in detecting 
  **Reference:**
 https://github.com/alen-smajic/Real-time-Object-Detection-for-Autonomous-Driving-using-Deep-Learning
 
-**Weights File**
+**Weights File** (To Be Downloaded)
 https://github.com/patrick013/Object-Detection---Yolov3/tree/1adade1efeb2f9b386a1f3c7366e28efac0d5cbf/model
 
 **Conclusion:**
