@@ -27,6 +27,7 @@ We’ll create two programs to do this project. The first one will be the tracke
 2. OpenCV – 4.4.0
 3. NumPy – 1.20.3
 4. YOLOv3 Pre-trained model weights and Config Files.
+
 **Approach:**
 1.	Import necessary packages and initialize the network.
 2.	Read frames from a video file.
