@@ -4,7 +4,7 @@
 									Author:
 								K. Sai Bhuvaneswari 
 								T. Mounika  
-								19/July/2023.
+								10/July/2023.
 
 **Abstract:**
 This project focuses on road object detection using deep learning techniques, specifically targeting the detection of various objects such as persons, vehicles, and birds also counts them. Accurate detection of objects on roads is crucial for applications like autonomous driving, traffic monitoring, and surveillance systems. 
