@@ -37,6 +37,8 @@ We’ll create two programs to do this project. The first one will be the tracke
 6.	Save the final data to a CSV file.
 
 **Result:**
+![image](https://github.com/20N31A6629/intelunnati_dualcore/assets/75978364/676bd659-f1d7-48ac-a38c-ebf5b7138087)
+
 The trained deep learning models demonstrate excellent performance in detecting persons, vehicles, birds, and other specified objects on the road. The models achieve state-of-the-art results on benchmark datasets, exhibiting high precision and recall rates across the selected object categories.
 
  **Reference:**
